@@ -1,4 +1,4 @@
-import { Content } from "./conten"
+import { Content } from "./content"
 import { Notification } from "./notification"
 
 describe('Notification', () => {
